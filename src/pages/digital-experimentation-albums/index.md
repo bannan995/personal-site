@@ -8,3 +8,6 @@ Bookmarksgrove right at the coast of the Semantics, a large language
 ocean. A small river named Duden flows by their place and supplies it
 with the necessary regelialia."
 ---
+
+![Digital Experimentation](LZ-PhysicalGraffiti.jpg)
+![Digital Experimentation](PF-Animals.jpg)

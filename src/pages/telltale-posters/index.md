@@ -1,6 +1,6 @@
 ---
-title: The Wolf Among Us
-path: "/wolf-among-us/"
+title: Telltale Posters
+path: "/telltale-posters/"
 image: "TTP-TWAU.jpeg"
 description: "Far far away, behind the word mountains, far from the countries Vokalia
 and Consonantia, there live the blind texts. <br>Separated they live in
@@ -10,3 +10,5 @@ with the necessary regelialia."
 ---
 
 ![The Wolf Among Us](TTP-TWAU.jpeg)
+![The Wolf Among Us](TTP-TWDbig.jpg)
+![The Wolf Among Us](TTP-TFTBbig.jpg)
