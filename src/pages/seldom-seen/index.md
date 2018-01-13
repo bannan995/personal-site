@@ -2,11 +2,7 @@
 title: Seldom Seen
 path: "/seldom-seen/"
 image: "SeldomSeenPoster.jpg"
-description: "Far far away, behind the word mountains, far from the countries Vokalia
-and Consonantia, there live the blind texts. <br>Separated they live in
-Bookmarksgrove right at the coast of the Semantics, a large language
-ocean. A small river named Duden flows by their place and supplies it
-with the necessary regelialia."
+description: "A poster for a university project. <br>Seldom Seen follows the story of a man who has mysteriously shrunk over night. My aim here was to show how small the character has become."
 ---
 
 ![Seldom Seen](SeldomSeenPoster.jpg)

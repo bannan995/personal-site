@@ -2,11 +2,9 @@
 title: Isometric Manchester
 path: "/isometric-manchester/"
 image: "beethamtower.jpg"
-description: "Far far away, behind the word mountains, far from the countries Vokalia
-and Consonantia, there live the blind texts. <br>Separated they live in
-Bookmarksgrove right at the coast of the Semantics, a large language
-ocean. A small river named Duden flows by their place and supplies it
-with the necessary regelialia."
+description: "A few experimental illustrations I did of buildings from around Manchester."
 ---
 
-![Isometric MAnchester](beethamtower.jpg)
+![Isometric Beetham Tower](beethamtower.jpg)
+![Isometric No2 St Peters](no2stpeters.jpg)
+![Isometric Merchants](merchantswarehouse.jpg)
