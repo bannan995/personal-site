@@ -2,7 +2,7 @@
 title: Chubby Warriors
 path: "/chubby-warriors/"
 image: "CWPoster.jpg"
-description: "In the Marmalade Forest, between the make believe trees, in a cottage cheese cottage, lives Albi."
+description: "University Game Prototype. <br>"
 ---
 
 ![Chubby Warriors](CWPoster.jpg)
